@@ -621,7 +621,7 @@
 				INFOPLIST_FILE = Matchima/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.1;
-				PRODUCT_BUNDLE_IDENTIFIER = com.MukhtarYusuf.Matchima;
+				PRODUCT_BUNDLE_IDENTIFIER = com.MukhtarYusuf.Matchima.Debug;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_OBJC_BRIDGING_HEADER = "Matchima/Matchima-Bridging-Header.h";
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
