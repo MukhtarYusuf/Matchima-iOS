@@ -619,6 +619,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 9QBV7H6RX5;
 				INFOPLIST_FILE = Matchima/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = "Matchima Debug";
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.MukhtarYusuf.Matchima.Debug;
@@ -637,6 +638,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				DEVELOPMENT_TEAM = 9QBV7H6RX5;
 				INFOPLIST_FILE = Matchima/Info.plist;
+				INFOPLIST_KEY_CFBundleDisplayName = Matchima;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				MARKETING_VERSION = 1.1;
 				PRODUCT_BUNDLE_IDENTIFIER = com.MukhtarYusuf.Matchima;
